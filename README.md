@@ -1,4 +1,4 @@
-# BioInfoSummerWorkshop
+# Fundamentals of whole-cell modelling: stochastic simulation with Julia 
 This repository contains all the materials, code, and resources for the workshop, which introduces participants to whole-cell modelling
 
 ## Key Learning Objectives
