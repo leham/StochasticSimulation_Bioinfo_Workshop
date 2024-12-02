@@ -11,8 +11,8 @@ This repository contains all the materials, code, and resources for the workshop
      - Cell-cycle dynamics
 
 **Stochastic Modelling**
-   - Learn about stochastic modelling and its application to biology.
-   - Use **Julia**, a powerful programming language for scientific computing, to simulate biochemical processes.
+   - Learn about stochastic modelling and its application to biology
+   - Use **Julia**, a powerful programming language for scientific computing, to simulate biochemical processes
 
 ## What You Will Learn
 By the end of the workshop, participants will:
