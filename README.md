@@ -18,4 +18,4 @@ This repository contains all the materials, code, and resources for the workshop
 By the end of the workshop, participants will:
 - Build and implement a minimal whole-cell model
 - Develop a strong understanding of the theoretical and computational aspects of whole-cell modelling
-- Acquire practical skills to analyze and simulate complex biological systems
+- Acquire practical skills to analyse and simulate complex biological systems
